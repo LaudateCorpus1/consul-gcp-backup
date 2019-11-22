@@ -1,0 +1,6 @@
+required_vars:
+  - BASE64_KEY
+  - BUCKET
+
+secret_vars:
+  - BASE64_KEY
